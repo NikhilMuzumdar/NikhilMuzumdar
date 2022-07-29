@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikhilMuzumdar
-- 👀 I’m interested in coding as a hobby
-- 🌱 I’m currently learning python and R
-- 📫 How to reach me : nikhil.neon@gmail.com
+- 👀 Love coding as a hobby 
+- 🌱 Into python programming mostly
+- 📫 https://twitter.com/nikhil_neon
 
 <!---
 NikhilMuzumdar/NikhilMuzumdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
